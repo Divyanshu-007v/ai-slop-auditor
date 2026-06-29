@@ -1,0 +1,44 @@
+{
+  "source_types": {
+    "peer_reviewed_journal": {
+      "credibility_score": 95,
+      "description": "Peer-reviewed academic journal with editorial oversight"
+    },
+    "medical_database": {
+      "credibility_score": 93,
+      "description": "Curated medical database (e.g., PubMed, Cochrane)"
+    },
+    "government_agency": {
+      "credibility_score": 92,
+      "description": "Official government agency (e.g., CDC, FDA, SEC, USGS)"
+    },
+    "major_news_outlet": {
+      "credibility_score": 78,
+      "description": "Established news organization with editorial standards"
+    },
+    "industry_report": {
+      "credibility_score": 72,
+      "description": "Industry analyst report or company press release"
+    },
+    "fact_check_organization": {
+      "credibility_score": 85,
+      "description": "Dedicated fact-checking organization (e.g., Snopes, PolitiFact)"
+    },
+    "encyclopedia": {
+      "credibility_score": 80,
+      "description": "General reference encyclopedia (e.g., Wikipedia, Britannica)"
+    },
+    "blog": {
+      "credibility_score": 40,
+      "description": "Personal or organizational blog without editorial review"
+    },
+    "social_media": {
+      "credibility_score": 30,
+      "description": "Social media post or thread"
+    },
+    "unknown": {
+      "credibility_score": 20,
+      "description": "Source type could not be determined"
+    }
+  }
+}

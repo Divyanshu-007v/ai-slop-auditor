@@ -1,0 +1,74 @@
+{
+  "test_claims": [
+    {
+      "claim_text": "Coffee cures diabetes.",
+      "expected_verdict": "Unsupported",
+      "expected_min_score": 0,
+      "expected_max_score": 40,
+      "claim_type": "medical"
+    },
+    {
+      "claim_text": "Apple launched Vision Pro in February 2024.",
+      "expected_verdict": "Supported",
+      "expected_min_score": 60,
+      "expected_max_score": 100,
+      "claim_type": "general"
+    },
+    {
+      "claim_text": "Bitcoin is guaranteed to double next month.",
+      "expected_verdict": "Unsupported",
+      "expected_min_score": 0,
+      "expected_max_score": 40,
+      "claim_type": "financial"
+    },
+    {
+      "claim_text": "Drinking water prevents dehydration.",
+      "expected_verdict": "Supported",
+      "expected_min_score": 60,
+      "expected_max_score": 100,
+      "claim_type": "medical"
+    },
+    {
+      "claim_text": "Vaccines cause autism.",
+      "expected_verdict": "Contradicted",
+      "expected_min_score": 0,
+      "expected_max_score": 30,
+      "claim_type": "medical"
+    },
+    {
+      "claim_text": "The Earth is approximately 4.5 billion years old.",
+      "expected_verdict": "Supported",
+      "expected_min_score": 60,
+      "expected_max_score": 100,
+      "claim_type": "science"
+    },
+    {
+      "claim_text": "5G towers cause cancer.",
+      "expected_verdict": "Contradicted",
+      "expected_min_score": 0,
+      "expected_max_score": 30,
+      "claim_type": "medical"
+    },
+    {
+      "claim_text": "A company's stock rose 40% after FDA approval.",
+      "expected_verdict": "Insufficient Evidence",
+      "expected_min_score": 0,
+      "expected_max_score": 50,
+      "claim_type": "financial"
+    },
+    {
+      "claim_text": "The sun revolves around the Earth.",
+      "expected_verdict": "Insufficient Evidence",
+      "expected_min_score": 0,
+      "expected_max_score": 30,
+      "claim_type": "science"
+    },
+    {
+      "claim_text": "I think this is a great product.",
+      "expected_verdict": "skip",
+      "expected_min_score": 0,
+      "expected_max_score": 0,
+      "claim_type": "opinion"
+    }
+  ]
+}

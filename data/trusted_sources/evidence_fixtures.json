@@ -1,0 +1,163 @@
+{
+  "claims": {
+    "coffee cures diabetes": [
+      {
+        "source_title": "Coffee Consumption and Risk of Type 2 Diabetes: A Systematic Review",
+        "source_type": "peer_reviewed_journal",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/example-coffee-diabetes-review",
+        "snippet": "Multiple observational studies suggest an association between regular coffee consumption and a modestly reduced risk of developing type 2 diabetes. However, no clinical trial has demonstrated that coffee can cure or reverse established diabetes. The observed association may be confounded by lifestyle factors.",
+        "published_date": "2023-06-15",
+        "credibility_score": 92,
+        "relevance_score": 95,
+        "supports_claim": false,
+        "contradicts_claim": true
+      },
+      {
+        "source_title": "American Diabetes Association — Myths About Diabetes",
+        "source_type": "medical_database",
+        "source_url": "https://www.diabetes.org/diabetes-risk/myths",
+        "snippet": "There is no known cure for diabetes. While certain dietary habits, including moderate coffee consumption, may be associated with reduced risk, no food or beverage has been proven to cure diabetes. Patients should follow evidence-based treatment plans prescribed by healthcare providers.",
+        "published_date": "2024-01-10",
+        "credibility_score": 95,
+        "relevance_score": 93,
+        "supports_claim": false,
+        "contradicts_claim": true
+      }
+    ],
+    "apple launched vision pro in february 2024": [
+      {
+        "source_title": "Apple Vision Pro Now Available in the United States",
+        "source_type": "major_news_outlet",
+        "source_url": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+        "snippet": "Apple announced that Apple Vision Pro, the company's first spatial computer, became available in the United States on Friday, February 2, 2024. Customers were able to purchase it online and at Apple Store locations.",
+        "published_date": "2024-02-02",
+        "credibility_score": 90,
+        "relevance_score": 98,
+        "supports_claim": true,
+        "contradicts_claim": false
+      },
+      {
+        "source_title": "Apple Vision Pro Launch Day: What We Know",
+        "source_type": "major_news_outlet",
+        "source_url": "https://www.theverge.com/2024/2/2/apple-vision-pro-launch",
+        "snippet": "Apple Vision Pro officially went on sale on February 2, 2024, in the United States, starting at $3,499. Pre-orders had opened on January 19, 2024. The device represents Apple's entry into the spatial computing market.",
+        "published_date": "2024-02-02",
+        "credibility_score": 82,
+        "relevance_score": 96,
+        "supports_claim": true,
+        "contradicts_claim": false
+      }
+    ],
+    "bitcoin is guaranteed to double next month": [
+      {
+        "source_title": "SEC Investor Alert: Cryptocurrency Risks",
+        "source_type": "government_agency",
+        "source_url": "https://www.sec.gov/investor-alerts/cryptocurrency-risks",
+        "snippet": "No investment, including cryptocurrency, carries a guarantee of returns. Bitcoin and other cryptocurrencies are highly volatile assets. Any claim that a cryptocurrency is 'guaranteed' to increase in value should be treated as a potential fraud indicator. Past performance does not guarantee future results.",
+        "published_date": "2024-03-01",
+        "credibility_score": 95,
+        "relevance_score": 90,
+        "supports_claim": false,
+        "contradicts_claim": true
+      },
+      {
+        "source_title": "Understanding Cryptocurrency Volatility — Federal Reserve Research",
+        "source_type": "government_agency",
+        "source_url": "https://www.federalreserve.gov/research/crypto-volatility",
+        "snippet": "Cryptocurrency markets exhibit extreme price volatility. Bitcoin has experienced multiple drawdowns exceeding 50% within short time periods. No reliable model can predict short-term cryptocurrency price movements with certainty, and guarantees of specific returns are inconsistent with the nature of these assets.",
+        "published_date": "2024-05-20",
+        "credibility_score": 93,
+        "relevance_score": 88,
+        "supports_claim": false,
+        "contradicts_claim": true
+      }
+    ],
+    "a company stock rose 40 percent after fda approval": [
+      {
+        "source_title": "Stock Price Reactions to FDA Drug Approvals: A Meta-Analysis",
+        "source_type": "peer_reviewed_journal",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/example-fda-stock-meta",
+        "snippet": "FDA approval events can lead to significant stock price movements for pharmaceutical companies. Studies show average abnormal returns of 5-15% around approval announcements, though individual cases vary widely. Without specifying the company, drug, and date, the claim of a 40% rise cannot be independently verified.",
+        "published_date": "2023-11-01",
+        "credibility_score": 88,
+        "relevance_score": 70,
+        "supports_claim": false,
+        "contradicts_claim": false
+      }
+    ],
+    "drinking water prevents dehydration": [
+      {
+        "source_title": "Water, Hydration and Health — National Institutes of Health",
+        "source_type": "government_agency",
+        "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908954/",
+        "snippet": "Adequate water intake is essential for maintaining hydration status. Water is the primary mechanism by which the body maintains fluid balance. Dehydration occurs when fluid losses exceed fluid intake, making regular water consumption a fundamental prevention strategy.",
+        "published_date": "2023-08-01",
+        "credibility_score": 95,
+        "relevance_score": 97,
+        "supports_claim": true,
+        "contradicts_claim": false
+      },
+      {
+        "source_title": "Dietary Reference Intakes for Water — National Academies",
+        "source_type": "government_agency",
+        "source_url": "https://nap.nationalacademies.org/read/10925/chapter/6",
+        "snippet": "The primary recommendation for preventing dehydration is adequate fluid intake, with water being the most accessible and effective source. The Institute of Medicine recommends approximately 3.7 liters per day for adult men and 2.7 liters for adult women from all beverages and food combined.",
+        "published_date": "2023-01-01",
+        "credibility_score": 96,
+        "relevance_score": 95,
+        "supports_claim": true,
+        "contradicts_claim": false
+      }
+    ],
+    "vaccines cause autism": [
+      {
+        "source_title": "Vaccines and Autism: A Thorough Review of the Evidence",
+        "source_type": "peer_reviewed_journal",
+        "source_url": "https://pubmed.ncbi.nlm.nih.gov/example-vaccines-autism",
+        "snippet": "Multiple large-scale epidemiological studies involving millions of children have found no link between vaccination and autism spectrum disorder. The original 1998 study claiming a link was retracted due to serious ethical violations and data manipulation. The scientific consensus is clear: vaccines do not cause autism.",
+        "published_date": "2024-02-01",
+        "credibility_score": 96,
+        "relevance_score": 98,
+        "supports_claim": false,
+        "contradicts_claim": true
+      },
+      {
+        "source_title": "CDC — Vaccines Do Not Cause Autism",
+        "source_type": "government_agency",
+        "source_url": "https://www.cdc.gov/vaccinesafety/concerns/autism.html",
+        "snippet": "The Centers for Disease Control and Prevention states that there is no link between vaccines and autism. This conclusion is supported by extensive research including a 2019 study of over 650,000 Danish children.",
+        "published_date": "2024-01-15",
+        "credibility_score": 97,
+        "relevance_score": 97,
+        "supports_claim": false,
+        "contradicts_claim": true
+      }
+    ],
+    "earth is approximately 4.5 billion years old": [
+      {
+        "source_title": "Age of the Earth — U.S. Geological Survey",
+        "source_type": "government_agency",
+        "source_url": "https://www.usgs.gov/special-topics/age-of-earth",
+        "snippet": "The age of the Earth is estimated at approximately 4.54 billion years, based on radiometric dating of meteorite material and consistent with radiometric ages of the oldest known terrestrial and lunar samples.",
+        "published_date": "2023-05-01",
+        "credibility_score": 96,
+        "relevance_score": 99,
+        "supports_claim": true,
+        "contradicts_claim": false
+      }
+    ],
+    "5g towers cause cancer": [
+      {
+        "source_title": "5G and Health: WHO Fact Sheet",
+        "source_type": "government_agency",
+        "source_url": "https://www.who.int/news-room/questions-and-answers/item/radiation-5g-mobile-networks-and-health",
+        "snippet": "To date, and after extensive research, no adverse health effect has been causally linked to exposure to wireless technologies including 5G. The radio frequencies used by 5G are non-ionizing and do not have enough energy to damage DNA, which is the mechanism by which ionizing radiation causes cancer.",
+        "published_date": "2024-01-01",
+        "credibility_score": 97,
+        "relevance_score": 96,
+        "supports_claim": false,
+        "contradicts_claim": true
+      }
+    ]
+  }
+}
